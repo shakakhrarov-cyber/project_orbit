@@ -1,0 +1,203 @@
+[
+  {
+    "id": "qid_1",
+    "text": "How do you prefer to spend your free time?",
+    "type": "multiple_choice",
+    "options": ["Alone", "With a small group", "In large gatherings"],
+    "targets": [0],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_2",
+    "text": "On a scale of 1-5, how important is social interaction to you?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [0],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_3",
+    "text": "How physically active do you like to be?",
+    "type": "slider",
+    "options": [],
+    "targets": [1],
+    "info_weight": [0.9],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_4",
+    "text": "Do you enjoy creative or analytical activities?",
+    "type": "multiple_choice",
+    "options": ["Creative", "Analytical", "Both equally"],
+    "targets": [2],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_5",
+    "text": "How structured do you prefer your learning?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [3],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_6",
+    "text": "How sensitive are you to cost?",
+    "type": "slider",
+    "options": [],
+    "targets": [4],
+    "info_weight": [0.6],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_7",
+    "text": "How regular is your schedule?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [5],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_8",
+    "text": "How do you prefer to learn?",
+    "type": "multiple_choice",
+    "options": ["Hands-on", "Visual", "Reading", "Listening"],
+    "targets": [6],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_9",
+    "text": "How comfortable are you with trying new things?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [7],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_10",
+    "text": "What motivates you most?",
+    "type": "multiple_choice",
+    "options": ["Competition", "Mastery", "Relaxation", "Community"],
+    "targets": [8],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_11",
+    "text": "Do you have any physical or location constraints?",
+    "type": "multiple_choice",
+    "options": ["None", "Mobility", "Location", "Equipment"],
+    "targets": [9],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_12",
+    "text": "How important is it to work with others?",
+    "type": "slider",
+    "options": [],
+    "targets": [0],
+    "info_weight": [0.6],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_13",
+    "text": "What level of physical exertion do you prefer?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [1],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_14",
+    "text": "Do you prefer creative expression or problem-solving?",
+    "type": "multiple_choice",
+    "options": ["Creative expression", "Problem-solving", "Both"],
+    "targets": [2],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_15",
+    "text": "How do you prefer to structure your activities?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [3],
+    "info_weight": [0.6],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_16",
+    "text": "How much are you willing to spend on hobbies?",
+    "type": "slider",
+    "options": [],
+    "targets": [4],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_17",
+    "text": "How consistent can you be with scheduling?",
+    "type": "likert",
+    "options": [1, 2, 3, 4, 5],
+    "targets": [5],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_18",
+    "text": "What learning style resonates with you?",
+    "type": "multiple_choice",
+    "options": ["Kinesthetic", "Visual", "Auditory", "Reading/Writing"],
+    "targets": [6],
+    "info_weight": [0.9],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_19",
+    "text": "How adventurous are you with new experiences?",
+    "type": "slider",
+    "options": [],
+    "targets": [7],
+    "info_weight": [0.7],
+    "difficulty": 1.0,
+    "locale": "en"
+  },
+  {
+    "id": "qid_20",
+    "text": "What drives your engagement?",
+    "type": "multiple_choice",
+    "options": ["Winning", "Improving", "Relaxing", "Connecting"],
+    "targets": [8],
+    "info_weight": [0.8],
+    "difficulty": 1.0,
+    "locale": "en"
+  }
+]
+
